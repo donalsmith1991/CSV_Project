@@ -1,0 +1,12 @@
+{
+  "name": "csv_project",
+  "version": "1.0.0",
+  "description": "MongoDB helper and CSV learning project",
+  "main": "src/mongoConnection.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.8.0"
+  }
+}
